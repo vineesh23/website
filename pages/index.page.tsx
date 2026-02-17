@@ -526,6 +526,7 @@ const Home = (props: any) => {
                 <div className='flex flex-col'>
                   <a
                     href='https://github.com/orgs/json-schema-org/discussions/35'
+                    target="_blank"
                     rel='noopener noreferrer'
                     className='w-full text-center rounded border-2 bg-primary hover:bg-blue-700 transition-all duration-300 ease-in-out text-white min-h-[44px] py-2 px-4 mb-4 flex items-center justify-center dark:border-none'
                   >
